@@ -1,1 +1,6 @@
+Hi<<<<<<< HEAD
 hI Hello Hi Hello Iam Swetha
+=======
+
+Hi Hello Iam Hi Hello Iam Swetha
+>>>>>>> first

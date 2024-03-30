@@ -1,1 +1,5 @@
-Hi Hello Iam swetha
+kbkhi<<<<<<< HEAD
+HI Hello Hi Hello Iam swetha
+=======
+Hi HelloHi Hello Iam swetha
+>>>>>>> first

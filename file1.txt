@@ -1,1 +1,10 @@
+bdkbck<<<<<<< HEAD
 hiHi Hello Iam Swetha
+=======
+kbdkHi<<<<<<< HEAD
+hI Hello Hi Hello Iam Swetha
+=======
+
+Hi Hello Iam Hi Hello Iam Swetha
+>>>>>>> first
+>>>>>>> second
